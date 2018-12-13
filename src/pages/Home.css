@@ -1,0 +1,21 @@
+.home {
+  background-image: url("../assets/img.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  font-family: georgia;
+}
+.content {
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#homeButton {
+  padding: 20px;
+  margin: 5px;
+  border-radius: 10px;
+  font-size: 16px;
+  color: white;
+  background: green;
+}
