@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  font-family: Georgia;
+  display: flex;
+}
+.a {
+  text-decoration: none;
+  outline: none;
+}
+.footer-grids {
+  display: block;
+}
